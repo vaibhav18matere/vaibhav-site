@@ -12,28 +12,40 @@ body{
     position: relative;
     padding-top: 20px;
     padding-bottom: 10px;
+    background-color:lightsteelblue;
 }
 .middle-container{
-    background-color: limegreen;
-    width: 200px;
-    height:200px;
+  
 }
+
 .bottom-container{
-    background-color:lightyellow ;
-    width: 200px;
-    height:200px;
+  
 }
+
 .web-dev{
     text-decoration: underline;
 }
 .top-cloud{
     position: absolute;
-    right: 300px;
+    right: 100px;
     top: 150px;
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 100px;
-    bottom: 400px;
+    left: 80px;
+    bottom: 350px;
+}
+.my-img{
+    width: 300px;
+    border-radius: 600px;
+    border:brown solid 5px;
+}
+.skills{
+    background-color:lightsteelblue ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.skill-code{
+    width: 250px;
 }
