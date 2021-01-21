@@ -3,11 +3,14 @@ body{
     margin: 0;
     text-align: center;
     font-family: 'Montserrat', sans-serif;  
+    background-color: rgb(191, 196, 196);
 }
 .h1{
     margin-top: 0;
 }
-
+.h2{
+    color: brown;
+}
 .top-container{
     position: relative;
     padding-top: 20px;
@@ -29,6 +32,7 @@ body{
     position: absolute;
     right: 100px;
     top: 150px;
+
 }
 
 .bottom-cloud{
@@ -39,7 +43,7 @@ body{
 .my-img{
     width: 300px;
     border-radius: 600px;
-    border:brown solid 5px;
+    border:lightsteelblue solid 10px;
 }
 .skills{
     background-color:lightsteelblue ;
@@ -48,4 +52,7 @@ body{
 }
 .skill-code{
     width: 250px;
+}
+.footer-link{
+    color: rgb(13, 13, 14);
 }
