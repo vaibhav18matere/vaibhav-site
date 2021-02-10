@@ -18,6 +18,8 @@ body{
     background-color:lightsteelblue;
 }
 .middle-container{
+    width: 50%;
+    margin: auto;
   
 }
 
@@ -44,6 +46,7 @@ body{
     width: 300px;
     border-radius: 600px;
     border:lightsteelblue solid 10px;
+    float: left;
 }
 .skills{
     background-color:lightsteelblue ;
@@ -55,12 +58,4 @@ body{
 }
 .footer-link{
     color: rgb(13, 13, 14);
-}
-.abc{
-    color: rgb(65, 42, 165);
-    
-}
-.def{
-    color: rgb(65, 29, 228);
-    
 }
