@@ -24,6 +24,9 @@ body{
 }
 
 .bottom-container{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 20px;
   
 }
 
@@ -45,8 +48,9 @@ body{
 .my-img{
     width: 300px;
     border-radius: 600px;
-    border:lightsteelblue solid 10px;
+    border:rgb(13, 13, 14) solid 3px;
     float: left;
+}
 }
 .skills{
     background-color:lightsteelblue ;
@@ -58,4 +62,15 @@ body{
 }
 .footer-link{
     color: rgb(13, 13, 14);
+}
+.contact-me{
+    border-style: solid;
+    border-radius: 15px;
+    padding: 3rem;
+}
+.intro{
+    border-style: solid;
+    padding-bottom: 1rem;
+    /* border-bottom-left-radius: 5000px; */
+    border-radius: 15px;
 }
